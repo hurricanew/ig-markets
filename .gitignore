@@ -38,3 +38,6 @@ jspm_packages
 
 # Anything else
 .idea
+
+.env
+csv
