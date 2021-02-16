@@ -15,8 +15,11 @@
   "author": "Arthur Schopenhauer",
   "license": "MIT",
   "dependencies": {
+    "-": "^0.0.1",
+    "bluebird": "^3.7.2",
     "csv-stringify": "^5.6.1",
     "dotenv": "^8.2.0",
+    "lodash": "^4.17.20",
     "restler": "^3.4.0"
   },
   "devDependencies": {
